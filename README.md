@@ -33,6 +33,6 @@ $ shea <GCI>
 ## TO be done 
 Uploading to IBM Cloud as a Cloud Foundry App
 
-![0](3.png)
+![3](3.png)
 ![1](1.png)
 ![2](2.png)
