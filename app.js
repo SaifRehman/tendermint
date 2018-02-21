@@ -1,12 +1,14 @@
 let shea = require('shea')
 
 let app = require('../../../lotion')({
-  initialState: { count: 0 },
+  initialState: { messages: [] },
   devMode: true
 })
 
 app.use((state, tx) => {
-  state.count+=2
+  if (typeof tx.username === 'string' && typeof tx.message === 'string') {
+    state.messages.push({ username: tx.username, message: tx.message })
+  }
 })
 
 app.use(shea('client.html'))
