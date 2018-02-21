@@ -1,12 +1,12 @@
 # Tendermint
-Blockchain app baesd on tendermint 
+Blockchain app baesd on tendermint. The app logs the sucessull answer given by user 
 
 ## Technologies used
 1. Tendermint concensys
 2. Shea
 3. Lotionjs
 
-## usuage 
+## Usuage 
 1. Install dependencies 
 ```
 $ npm i
@@ -28,3 +28,5 @@ $ node app.js
 $ shea <GCI>
 ```
 
+![1](1.png)
+![2](2.png)
