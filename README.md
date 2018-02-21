@@ -30,6 +30,8 @@ $ node app.js
 ```
 $ shea <GCI>
 ```
+## TO be done 
+Uploading to IBM Cloud as a Cloud Foundry App
 
 ![1](1.png)
 ![2](2.png)
