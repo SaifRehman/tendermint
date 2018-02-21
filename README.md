@@ -1,5 +1,10 @@
 # Tendermint
-Blockchain app baesd on tendermint/concensys/shea
+Blockchain app baesd on tendermint 
+
+## Technologies used
+1. Tendermint concensys
+2. Shea
+3. Lotionjs
 
 ## usuage 
 1. Install dependencies 
@@ -7,7 +12,7 @@ Blockchain app baesd on tendermint/concensys/shea
 $ npm i
 ``` 
 
-2. Install shea to connect to blockcain
+2. Install shea to connect to blockchain
 ```
 $ npm i -g shea
 ```
